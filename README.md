@@ -14,7 +14,7 @@ Este programa convierte un archivo jerárquico en formato `.htext` a un archivo 
 ### 2. Ejecución
 1. Descargue el archivo de entrada desde https://www.kegg.jp/kegg-bin/get_htext?Viruses
 2. Modifique la extension del archivo a ".htext"
-3. Guarde el script como `convert_to_tsv.py` en el mismo directorio que el archivo de entrada
+3. Guarde el script  `Viral_hierarchies.py` en el mismo directorio que el archivo de entrada
 4. Ejecúte el script en la terminal con:
 ```bash
 python Viral_hierarchies.py
