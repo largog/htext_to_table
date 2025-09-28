@@ -1,7 +1,7 @@
 # htext_to_table
 Script que convierte archivos de clasificación taxonómica viral KEGG en una tabla
 
-##Tutorial de uso
+## Tutorial de uso
 
 Este programa convierte un archivo jerárquico en formato `.htext` a un archivo tabulado `.tsv`.
 
