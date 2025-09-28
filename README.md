@@ -17,5 +17,5 @@ Este programa convierte un archivo jerárquico en formato `.htext` a un archivo 
 3. Guarde el script como `convert_to_tsv.py` en el mismo directorio que el archivo de entrada
 4. Ejecúte el script en la terminal con:
 ```bash
-python convert_to_tsv.py
+python Viral_hierarchies.py
 ```
